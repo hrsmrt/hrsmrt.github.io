@@ -12,5 +12,5 @@ permalink: /matplotlib
     - [GeoCAT-examples Documentation](https://geocat-examples.readthedocs.io/en/latest/index.html)
     - [気象データ解析のためのmatplotlibの使い方 \| 山下陽介のページ](https://yyousuke.github.io/matplotlib/index.html)
 - いくつかのtips
-    - スタイルシートを使うと設定を使い回せて便利([スタイルシートの活用](./style-sheet))
-    - フォントについて: [フォント](./font)
+    - スタイルシートを使うと設定を使い回せて便利([スタイルシート]({{ page.url | append: '/style-sheet/' | relative_url }}))
+    - フォントについて: [フォント]({{ page.url | append: '/font/' | relative_url }})
