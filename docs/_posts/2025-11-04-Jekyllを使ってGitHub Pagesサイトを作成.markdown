@@ -10,7 +10,7 @@ categories: jekyll update
 - [GitHub PagesとJekyllについて - GitHub Docs](https://docs.github.com/ja/pages/setting-up-a-github-pages-site-with-jekyll/about-github-pages-and-jekyll)
 - [BundlerでJekyllを使う \| Jekyll • シンプルで、ブログのような、静的サイト](https://jekyllrb-ja.github.io/tutorials/using-jekyll-with-bundler/)
 
-Jekyllの日本語訳ページはこちら([Jekyll • シンプルで、ブログのような、静的サイト \| プレーンテキストを静的サイトやブログに変えましょう](https://jekyllrb-ja.github.io/))
+Jekyllの日本語訳ページはこちら: [Jekyll • シンプルで、ブログのような、静的サイト \| プレーンテキストを静的サイトやブログに変えましょう](https://jekyllrb-ja.github.io/)
 
 以下に、初期化時に書かれている解説を残しておく。
 
